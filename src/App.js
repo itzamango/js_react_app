@@ -13,8 +13,21 @@ const componente = () => {
   );
 };
 
+
+const Footer = () => <footer>El footer awesome</footer>;
+
+conste ElHeader = () => <header>mi awesome apps</header>;
+
+
+
+
+
 function App() {
   return (
+
+
+
+
     <div className="App">
       <header className="App-header">
 
